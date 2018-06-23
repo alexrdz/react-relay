@@ -48,9 +48,11 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
+    "material-ui": "^0.20.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-router": "3.0.2"
+    "react-router": "3.0.2",
+    "react-tap-event-plugin": "^3.0.3"
   },
   "scripts": {
     "start": "GRAPHQL_ENDPOINT=https://api.graph.cool/relay/v1/cjiqucxii5u330179xxbea26v node scripts/start.js",
